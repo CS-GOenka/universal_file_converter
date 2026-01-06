@@ -1,8 +1,6 @@
 streamlit
-markitdown
-marker-pdf
-pi-heif
-requests
-openpyxl
+markitdown[all]
+pdfminer.six
 python-docx
+openpyxl
 beautifulsoup4
