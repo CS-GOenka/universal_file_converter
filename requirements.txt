@@ -1,0 +1,6 @@
+streamlit
+markitdown
+requests
+openpyxl
+python-docx
+beautifulsoup4
