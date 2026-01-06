@@ -1,5 +1,7 @@
 streamlit
 markitdown
+marker-pdf
+pi-heif
 requests
 openpyxl
 python-docx
